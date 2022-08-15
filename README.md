@@ -1,2 +1,5 @@
 # Random-UI
-Please keep in mind that I do not own this UI, I'm only uploading it here because it actually looks cool imo
+Removed the UI Source since there's already a host for the UI.
+
+If you want some good UI's for your scripts just use this site: https://garfieldscripts.xyz/uis
+(not a promo)
